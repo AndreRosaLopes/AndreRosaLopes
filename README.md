@@ -1,4 +1,11 @@
-### Hi there 👋
+### My personal portfolio 👋
+
+I am a dedicated engineer with a passion for providing data-driven advice to meet business objectives. Currently, I am focused on expanding my technical expertise (recently achieving MS Power BI certification and building a solid foundation in SQL).
+
+This GitHub repository serves as a showcase for my portfolio. I a lot of data analysis as a satellite engineer at Telebras (most with Python, uploading results as applications), all are under NDA. I'm going to share non-confidential work here soon. :)
+
+- Example of viz (with python/panel/bokeh):
+![image](https://github.com/AndreRosaLopes/AndreRosaLopes/assets/135834696/9bcd5a94-f4ff-4188-9c43-1033b99c44a0)
 
 <!--
 **AndreRosaLopes/AndreRosaLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
