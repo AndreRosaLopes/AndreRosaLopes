@@ -5,7 +5,7 @@ I am a Data Engineer with expertise in ETL processes, data integration, and dime
 
 ## 1. [DATABRICKS with **dlt**](https://github.com/AndreRosaLopes/DATABRICKS-with-dlt-?tab=readme-ov-file): A streaming data pipeline delevering a simples dimensional table with SCD2
 
-<img src="https://github.com/AndreRosaLopes/DATABRICKS-with-dlt-/blob/main/images/image-22.png" width="70%" />
+<img src="https://github.com/AndreRosaLopes/DATABRICKS-with-dlt-/blob/main/images/image-22.png" width="80%" />
 
 ## 2. [Retail Sales Project with Azure and Databricks](https://github.com/AndreRosaLopes/Retail-Sales-ETL-with-Azure-Databricks)
 
